@@ -1,3 +1,5 @@
+//flutter pub add switch_button                  (switch_button: ^0.0.1)
+
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:switch_button/switch_button.dart';
